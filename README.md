@@ -1,9 +1,8 @@
 ### Hi!👋 , I'm Nico 😄. 
-I am advanced student of System Analist 💻📚, actually I'm learning about different programming languages with a lot of motivation and dedication, with the purpose of improve my skills (also because I like almost everything related to programming😅).
+I am advanced student of System Analist 💻📚 and Java Developer in a Fintech, actually I'm learning about SpringBoot with a lot of motivation and dedication, with the purpose of improve my skills and knowledges.
 
-Skills: JAVA  / JAVASCRIPT/ HTML / CSS / SQL (MySQL, PostgreSQL) / C
+Skills: JAVA / SpringBoot - API REST / JAVASCRIPT/ HTML / CSS / SQL (MySQL, PostgreSQL, Oracle) / C.
 
-- 🌱 I’m currently learning Spring framework / SpringBoot. 
 - My CV web: https://nicolasbritos.github.io/Portfolio/
 
 
